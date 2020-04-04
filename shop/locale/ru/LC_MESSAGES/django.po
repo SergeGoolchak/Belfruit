@@ -1,0 +1,393 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-24 17:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: shop/templates/shop/about.html:11 shop/templates/shop/shop.html:12
+msgid "Home"
+msgstr "Домашние"
+
+#: shop/templates/shop/about.html:11 shop/templates/shop/about.html:12
+msgid "About us"
+msgstr "О Нас:"
+
+#: shop/templates/shop/about.html:29
+msgid "Welcome to Belfruits an eCommerce website"
+msgstr "Добро пожаловать в Belfruits - интернет магазин"
+
+#: shop/templates/shop/about.html:33
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts. Separated they live in "
+"Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+msgstr ""
+"Зеленые поля солнечной Беларуси и любимое дело, чтобы Вы получали всё лучшее."
+
+#: shop/templates/shop/about.html:34
+msgid ""
+"But nothing the copy said could convince her and so it didn’t take long "
+"until a few insidious Copy Writers ambushed her, made her drunk with Longe "
+"and Parole and dragged her into their agency, where they abused her for "
+"their."
+msgstr ""
+"Применение эффективных агротехнологий в сельскохозяйственном производстве, "
+"современного технического оснащения индустриального производства и грамотная "
+"работа команды, позволяют гарантировать потребителям продукцию высокого "
+"качества – «Качества из первых рук»."
+
+#: shop/templates/shop/about.html:35 shop/templates/shop/index.html:102
+msgid "Shop now!"
+msgstr "Купить сейчас"
+
+#: shop/templates/shop/about.html:46 shop/templates/shop/base.html:103
+msgid "Subcribe to our Newsletter"
+msgstr "Подписаться на наши новости"
+
+#: shop/templates/shop/about.html:47 shop/templates/shop/base.html:104
+msgid "Get e-mail updates about our latest shops and special offers"
+msgstr ""
+"Получать на электронную почту информацию о новых магазинах и специальных "
+"акциях"
+
+#: shop/templates/shop/about.html:52 shop/templates/shop/base.html:109
+msgid "Enter email address"
+msgstr "Введите ваш адрес эл. почты"
+
+#: shop/templates/shop/about.html:53 shop/templates/shop/base.html:110
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: shop/templates/shop/about.html:70
+msgid "Happy Customers"
+msgstr "Счастливые клиенты"
+
+#: shop/templates/shop/about.html:78
+msgid "Branches"
+msgstr "Отрасль"
+
+#: shop/templates/shop/about.html:86
+msgid "Partner"
+msgstr "Партнеры"
+
+#: shop/templates/shop/about.html:94
+msgid "Awards"
+msgstr "Награды"
+
+#: shop/templates/shop/about.html:108 shop/templates/shop/index.html:405
+msgid "Testimony"
+msgstr "Отзывы"
+
+#: shop/templates/shop/about.html:109 shop/templates/shop/index.html:406
+msgid "Our satisfied customer says"
+msgstr "Наши клиенты рекомендуют"
+
+#: shop/templates/shop/about.html:110 shop/templates/shop/index.html:407
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts. Separated they live in"
+msgstr ""
+"Зеленые поля солнечной Беларуси и любимое дело, чтобы Вы получали всё лучшее"
+
+#: shop/templates/shop/about.html:124 shop/templates/shop/about.html:138
+#: shop/templates/shop/about.html:152 shop/templates/shop/about.html:166
+#: shop/templates/shop/about.html:180 shop/templates/shop/index.html:421
+#: shop/templates/shop/index.html:435 shop/templates/shop/index.html:449
+#: shop/templates/shop/index.html:463 shop/templates/shop/index.html:477
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts."
+msgstr ""
+"Зеленые поля солнечной Беларуси и любимое дело, чтобы Вы получали всё лучшее"
+
+#: shop/templates/shop/about.html:125 shop/templates/shop/about.html:139
+#: shop/templates/shop/about.html:153 shop/templates/shop/about.html:167
+#: shop/templates/shop/about.html:181 shop/templates/shop/index.html:422
+#: shop/templates/shop/index.html:436 shop/templates/shop/index.html:450
+#: shop/templates/shop/index.html:464 shop/templates/shop/index.html:478
+msgid "Garreth Smith"
+msgstr "Гарет Смит"
+
+#: shop/templates/shop/about.html:126 shop/templates/shop/index.html:423
+msgid "Marketing Manager"
+msgstr "Директор по Маркетингу"
+
+#: shop/templates/shop/about.html:140 shop/templates/shop/index.html:437
+msgid "Interface Designer"
+msgstr "Дизайнер интерфейсов"
+
+#: shop/templates/shop/about.html:154 shop/templates/shop/index.html:451
+msgid "UI Designer"
+msgstr "Дизайнер Веб"
+
+#: shop/templates/shop/about.html:168 shop/templates/shop/index.html:465
+msgid "Web Developer"
+msgstr "Web разработчик"
+
+#: shop/templates/shop/about.html:182 shop/templates/shop/index.html:479
+msgid "System Analyst"
+msgstr "Систмный аналитик"
+
+#: shop/templates/shop/about.html:201 shop/templates/shop/index.html:50
+msgid "Free Shipping"
+msgstr "Бесплатная доставка"
+
+#: shop/templates/shop/about.html:202 shop/templates/shop/index.html:51
+msgid "On order over $100"
+msgstr "На заказы свыше $100"
+
+#: shop/templates/shop/about.html:212 shop/templates/shop/index.html:61
+msgid "Always Fresh"
+msgstr "Всегда свежие"
+
+#: shop/templates/shop/about.html:213 shop/templates/shop/index.html:62
+msgid "Product well package"
+msgstr "Качественная упаковка"
+
+#: shop/templates/shop/about.html:223 shop/templates/shop/index.html:72
+msgid "Superior Quality"
+msgstr "Превосходное качество"
+
+#: shop/templates/shop/about.html:224 shop/templates/shop/index.html:73
+msgid "Quality Products"
+msgstr "Качественные продукты"
+
+#: shop/templates/shop/about.html:234 shop/templates/shop/index.html:83
+msgid "Support"
+msgstr "Поддержка"
+
+#: shop/templates/shop/about.html:235 shop/templates/shop/index.html:84
+msgid "24/7 Support"
+msgstr "Поддержка 24/7"
+
+#: shop/templates/shop/base.html:53
+msgid "One day for delivery"
+msgstr "Доставляем в день заказа"
+
+#: shop/templates/shop/base.html:64 shop/templates/shop/base.html:140
+msgid "Menu"
+msgstr "Меню"
+
+#: shop/templates/shop/base.html:69
+msgid "HomePage"
+msgstr "Главная"
+
+#: shop/templates/shop/base.html:71 shop/templates/shop/base.html:73
+#: shop/templates/shop/base.html:142
+msgid "Shop"
+msgstr "Магазин"
+
+#: shop/templates/shop/base.html:74
+msgid "Wishlist"
+msgstr "Список пожеланий"
+
+#: shop/templates/shop/base.html:75
+msgid "Single product"
+msgstr "Информация о товаре"
+
+#: shop/templates/shop/base.html:76
+msgid "Cart"
+msgstr "Корзина"
+
+#: shop/templates/shop/base.html:77
+msgid "Checkout"
+msgstr "Оплата"
+
+#: shop/templates/shop/base.html:80 shop/templates/shop/base.html:143
+msgid "About"
+msgstr "О Нас"
+
+#: shop/templates/shop/base.html:81
+msgid "Blog"
+msgstr "Блог"
+
+#: shop/templates/shop/base.html:82 shop/templates/shop/base.html:161
+msgid "Contact"
+msgstr "Контакты"
+
+#: shop/templates/shop/base.html:130
+msgid "Grow with love"
+msgstr "Выращено с любовью"
+
+#: shop/templates/shop/base.html:144
+msgid "Journal"
+msgstr "Журнал"
+
+#: shop/templates/shop/base.html:145
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+#: shop/templates/shop/base.html:151
+msgid "Help"
+msgstr "Помощь"
+
+#: shop/templates/shop/base.html:154
+msgid "Shipping Information"
+msgstr "Информация о доставке"
+
+#: shop/templates/shop/base.html:155
+msgid "Returns &amp; Exchange"
+msgstr "Возврат и обмен товара"
+
+#: shop/templates/shop/base.html:156
+msgid "Terms &amp; Conditions"
+msgstr "Правила и условия"
+
+#: shop/templates/shop/base.html:157
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: shop/templates/shop/base.html:160
+msgid "FAQs"
+msgstr "Часто задаваемые вопросы"
+
+#: shop/templates/shop/base.html:168
+msgid "Have a Questions?"
+msgstr "Есть вопросы?"
+
+#: shop/templates/shop/base.html:171
+msgid "21 Leninskaya street, Mogilev, Belarus"
+msgstr "Беларусь, город Могилёв, улица Ленинская, дом 21"
+
+#: shop/templates/shop/index.html:15
+msgid "We serve Fresh Vegestables &amp; Fruits"
+msgstr "Мы продаем только свежие овощи и фрукты"
+
+#: shop/templates/shop/index.html:16 shop/templates/shop/index.html:31
+msgid "We deliver organic vegetables &amp; fruits"
+msgstr "Мы доставляем только натуральные овощи и фрукты"
+
+#: shop/templates/shop/index.html:17 shop/templates/shop/index.html:32
+msgid "View Details"
+msgstr "Подробнее"
+
+#: shop/templates/shop/index.html:30
+msgid "100%% Fresh &amp; Organic Foods"
+msgstr "100% свежие и натуральные продукты"
+
+#: shop/templates/shop/index.html:100 shop/templates/shop/index.html:114
+#: shop/templates/shop/shop.html:25
+msgid "Vegetables"
+msgstr "Фрукты"
+
+#: shop/templates/shop/index.html:101
+msgid "Protect the health of every home"
+msgstr "Бережем здоровье каждого дома"
+
+#: shop/templates/shop/index.html:109 shop/templates/shop/shop.html:26
+msgid "Fruits"
+msgstr "Овощи"
+
+#: shop/templates/shop/index.html:124
+msgid "Juices"
+msgstr "Соки"
+
+#: shop/templates/shop/index.html:129 shop/templates/shop/shop.html:28
+msgid "Dried"
+msgstr "Орехи"
+
+#: shop/templates/shop/index.html:141
+msgid "Featured Products"
+msgstr "Рекомендуемы товары"
+
+#: shop/templates/shop/index.html:142
+msgid "Our Products"
+msgstr "Наши продукты"
+
+#: shop/templates/shop/index.html:143 shop/templates/shop/index.html:387
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia"
+msgstr "Из благородных земель Беларуси"
+
+#: shop/templates/shop/index.html:156
+msgid "Bell Pepper"
+msgstr "Болгарский перец"
+
+#: shop/templates/shop/index.html:184
+msgid "Strawberry"
+msgstr "Клубника"
+
+#: shop/templates/shop/index.html:212
+msgid "Green Beans"
+msgstr "Зеленый горошек"
+
+#: shop/templates/shop/index.html:240
+msgid "Purple Cabbage"
+msgstr "Фиолетовая капуста"
+
+#: shop/templates/shop/index.html:271
+msgid "Tomatoe"
+msgstr "Томаты"
+
+#: shop/templates/shop/index.html:299
+msgid "Brocolli"
+msgstr "Броколли"
+
+#: shop/templates/shop/index.html:327
+msgid "Carrots"
+msgstr "Морковь"
+
+#: shop/templates/shop/index.html:355
+msgid "Fruit Juice"
+msgstr "Фруктовый сок"
+
+#: shop/templates/shop/index.html:385
+msgid "Best Price For You"
+msgstr "Лучшая цена специально для Вас"
+
+#: shop/templates/shop/index.html:386
+msgid "Deal of the day"
+msgstr "Товар дня"
+
+#: shop/templates/shop/index.html:388
+msgid "Spinach"
+msgstr "Шпинат"
+
+#: shop/templates/shop/index.html:389
+msgid "now $5 only"
+msgstr "Только сейчас всего $5"
+
+#: shop/templates/shop/index.html:391
+msgid "days"
+msgstr "Дней"
+
+#: shop/templates/shop/index.html:392
+msgid "hours"
+msgstr "Часов"
+
+#: shop/templates/shop/index.html:393
+msgid "minutes"
+msgstr "Минут"
+
+#: shop/templates/shop/index.html:394
+msgid "seconds"
+msgstr "Секунд"
+
+#: shop/templates/shop/shop.html:12 shop/templates/shop/shop.html:13
+msgid "Products"
+msgstr "Продукты"
+
+#: shop/templates/shop/shop.html:24
+msgid "All"
+msgstr "Все"
+
+#: shop/templates/shop/shop.html:27
+msgid "Juice"
+msgstr "Сок"

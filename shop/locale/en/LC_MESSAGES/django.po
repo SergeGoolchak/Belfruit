@@ -1,0 +1,387 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-24 17:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: shop/templates/shop/about.html:11 shop/templates/shop/shop.html:12
+#, fuzzy
+#| msgid "HomePage"
+msgid "Home"
+msgstr "Home"
+
+#: shop/templates/shop/about.html:11 shop/templates/shop/about.html:12
+msgid "About us"
+msgstr ""
+
+#: shop/templates/shop/about.html:29
+msgid "Welcome to Belfruits an eCommerce website"
+msgstr ""
+
+#: shop/templates/shop/about.html:33
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts. Separated they live in "
+"Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+msgstr ""
+
+#: shop/templates/shop/about.html:34
+msgid ""
+"But nothing the copy said could convince her and so it didn’t take long "
+"until a few insidious Copy Writers ambushed her, made her drunk with Longe "
+"and Parole and dragged her into their agency, where they abused her for "
+"their."
+msgstr ""
+
+#: shop/templates/shop/about.html:35 shop/templates/shop/index.html:102
+#, fuzzy
+#| msgid "Shop"
+msgid "Shop now!"
+msgstr "Shop"
+
+#: shop/templates/shop/about.html:46 shop/templates/shop/base.html:103
+msgid "Subcribe to our Newsletter"
+msgstr ""
+
+#: shop/templates/shop/about.html:47 shop/templates/shop/base.html:104
+msgid "Get e-mail updates about our latest shops and special offers"
+msgstr ""
+
+#: shop/templates/shop/about.html:52 shop/templates/shop/base.html:109
+msgid "Enter email address"
+msgstr ""
+
+#: shop/templates/shop/about.html:53 shop/templates/shop/base.html:110
+msgid "Subscribe"
+msgstr ""
+
+#: shop/templates/shop/about.html:70
+msgid "Happy Customers"
+msgstr ""
+
+#: shop/templates/shop/about.html:78
+msgid "Branches"
+msgstr ""
+
+#: shop/templates/shop/about.html:86
+msgid "Partner"
+msgstr ""
+
+#: shop/templates/shop/about.html:94
+msgid "Awards"
+msgstr ""
+
+#: shop/templates/shop/about.html:108 shop/templates/shop/index.html:405
+msgid "Testimony"
+msgstr ""
+
+#: shop/templates/shop/about.html:109 shop/templates/shop/index.html:406
+msgid "Our satisfied customer says"
+msgstr ""
+
+#: shop/templates/shop/about.html:110 shop/templates/shop/index.html:407
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts. Separated they live in"
+msgstr ""
+
+#: shop/templates/shop/about.html:124 shop/templates/shop/about.html:138
+#: shop/templates/shop/about.html:152 shop/templates/shop/about.html:166
+#: shop/templates/shop/about.html:180 shop/templates/shop/index.html:421
+#: shop/templates/shop/index.html:435 shop/templates/shop/index.html:449
+#: shop/templates/shop/index.html:463 shop/templates/shop/index.html:477
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia, there live the blind texts."
+msgstr ""
+
+#: shop/templates/shop/about.html:125 shop/templates/shop/about.html:139
+#: shop/templates/shop/about.html:153 shop/templates/shop/about.html:167
+#: shop/templates/shop/about.html:181 shop/templates/shop/index.html:422
+#: shop/templates/shop/index.html:436 shop/templates/shop/index.html:450
+#: shop/templates/shop/index.html:464 shop/templates/shop/index.html:478
+msgid "Garreth Smith"
+msgstr ""
+
+#: shop/templates/shop/about.html:126 shop/templates/shop/index.html:423
+msgid "Marketing Manager"
+msgstr ""
+
+#: shop/templates/shop/about.html:140 shop/templates/shop/index.html:437
+msgid "Interface Designer"
+msgstr ""
+
+#: shop/templates/shop/about.html:154 shop/templates/shop/index.html:451
+msgid "UI Designer"
+msgstr ""
+
+#: shop/templates/shop/about.html:168 shop/templates/shop/index.html:465
+msgid "Web Developer"
+msgstr ""
+
+#: shop/templates/shop/about.html:182 shop/templates/shop/index.html:479
+msgid "System Analyst"
+msgstr ""
+
+#: shop/templates/shop/about.html:201 shop/templates/shop/index.html:50
+msgid "Free Shipping"
+msgstr ""
+
+#: shop/templates/shop/about.html:202 shop/templates/shop/index.html:51
+msgid "On order over $100"
+msgstr ""
+
+#: shop/templates/shop/about.html:212 shop/templates/shop/index.html:61
+msgid "Always Fresh"
+msgstr ""
+
+#: shop/templates/shop/about.html:213 shop/templates/shop/index.html:62
+msgid "Product well package"
+msgstr ""
+
+#: shop/templates/shop/about.html:223 shop/templates/shop/index.html:72
+msgid "Superior Quality"
+msgstr ""
+
+#: shop/templates/shop/about.html:224 shop/templates/shop/index.html:73
+msgid "Quality Products"
+msgstr ""
+
+#: shop/templates/shop/about.html:234 shop/templates/shop/index.html:83
+msgid "Support"
+msgstr ""
+
+#: shop/templates/shop/about.html:235 shop/templates/shop/index.html:84
+msgid "24/7 Support"
+msgstr ""
+
+#: shop/templates/shop/base.html:53
+msgid "One day for delivery"
+msgstr ""
+
+#: shop/templates/shop/base.html:64 shop/templates/shop/base.html:140
+msgid "Menu"
+msgstr "Menu"
+
+#: shop/templates/shop/base.html:69
+msgid "HomePage"
+msgstr "Home"
+
+#: shop/templates/shop/base.html:71 shop/templates/shop/base.html:73
+#: shop/templates/shop/base.html:142
+msgid "Shop"
+msgstr "Shop"
+
+#: shop/templates/shop/base.html:74
+msgid "Wishlist"
+msgstr ""
+
+#: shop/templates/shop/base.html:75
+msgid "Single product"
+msgstr ""
+
+#: shop/templates/shop/base.html:76
+msgid "Cart"
+msgstr ""
+
+#: shop/templates/shop/base.html:77
+msgid "Checkout"
+msgstr ""
+
+#: shop/templates/shop/base.html:80 shop/templates/shop/base.html:143
+msgid "About"
+msgstr ""
+
+#: shop/templates/shop/base.html:81
+msgid "Blog"
+msgstr ""
+
+#: shop/templates/shop/base.html:82 shop/templates/shop/base.html:161
+msgid "Contact"
+msgstr ""
+
+#: shop/templates/shop/base.html:130
+msgid "Grow with love"
+msgstr ""
+
+#: shop/templates/shop/base.html:144
+msgid "Journal"
+msgstr ""
+
+#: shop/templates/shop/base.html:145
+msgid "Contact Us"
+msgstr ""
+
+#: shop/templates/shop/base.html:151
+msgid "Help"
+msgstr ""
+
+#: shop/templates/shop/base.html:154
+msgid "Shipping Information"
+msgstr ""
+
+#: shop/templates/shop/base.html:155
+msgid "Returns &amp; Exchange"
+msgstr ""
+
+#: shop/templates/shop/base.html:156
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: shop/templates/shop/base.html:157
+msgid "Privacy Policy"
+msgstr ""
+
+#: shop/templates/shop/base.html:160
+msgid "FAQs"
+msgstr ""
+
+#: shop/templates/shop/base.html:168
+msgid "Have a Questions?"
+msgstr ""
+
+#: shop/templates/shop/base.html:171
+msgid "21 Leninskaya street, Mogilev, Belarus"
+msgstr ""
+
+#: shop/templates/shop/index.html:15
+msgid "We serve Fresh Vegestables &amp; Fruits"
+msgstr ""
+
+#: shop/templates/shop/index.html:16 shop/templates/shop/index.html:31
+msgid "We deliver organic vegetables &amp; fruits"
+msgstr ""
+
+#: shop/templates/shop/index.html:17 shop/templates/shop/index.html:32
+msgid "View Details"
+msgstr ""
+
+#: shop/templates/shop/index.html:30
+#, python-format
+msgid "100%% Fresh &amp; Organic Foods"
+msgstr ""
+
+#: shop/templates/shop/index.html:100 shop/templates/shop/index.html:114
+#: shop/templates/shop/shop.html:25
+msgid "Vegetables"
+msgstr ""
+
+#: shop/templates/shop/index.html:101
+msgid "Protect the health of every home"
+msgstr ""
+
+#: shop/templates/shop/index.html:109 shop/templates/shop/shop.html:26
+msgid "Fruits"
+msgstr ""
+
+#: shop/templates/shop/index.html:124
+msgid "Juices"
+msgstr ""
+
+#: shop/templates/shop/index.html:129 shop/templates/shop/shop.html:28
+msgid "Dried"
+msgstr ""
+
+#: shop/templates/shop/index.html:141
+msgid "Featured Products"
+msgstr ""
+
+#: shop/templates/shop/index.html:142
+msgid "Our Products"
+msgstr ""
+
+#: shop/templates/shop/index.html:143 shop/templates/shop/index.html:387
+msgid ""
+"Far far away, behind the word mountains, far from the countries Vokalia and "
+"Consonantia"
+msgstr ""
+
+#: shop/templates/shop/index.html:156
+msgid "Bell Pepper"
+msgstr ""
+
+#: shop/templates/shop/index.html:184
+msgid "Strawberry"
+msgstr ""
+
+#: shop/templates/shop/index.html:212
+msgid "Green Beans"
+msgstr ""
+
+#: shop/templates/shop/index.html:240
+msgid "Purple Cabbage"
+msgstr ""
+
+#: shop/templates/shop/index.html:271
+msgid "Tomatoe"
+msgstr ""
+
+#: shop/templates/shop/index.html:299
+msgid "Brocolli"
+msgstr ""
+
+#: shop/templates/shop/index.html:327
+msgid "Carrots"
+msgstr ""
+
+#: shop/templates/shop/index.html:355
+msgid "Fruit Juice"
+msgstr ""
+
+#: shop/templates/shop/index.html:385
+msgid "Best Price For You"
+msgstr ""
+
+#: shop/templates/shop/index.html:386
+msgid "Deal of the day"
+msgstr ""
+
+#: shop/templates/shop/index.html:388
+msgid "Spinach"
+msgstr ""
+
+#: shop/templates/shop/index.html:389
+msgid "now $5 only"
+msgstr ""
+
+#: shop/templates/shop/index.html:391
+msgid "days"
+msgstr ""
+
+#: shop/templates/shop/index.html:392
+msgid "hours"
+msgstr ""
+
+#: shop/templates/shop/index.html:393
+msgid "minutes"
+msgstr ""
+
+#: shop/templates/shop/index.html:394
+msgid "seconds"
+msgstr ""
+
+#: shop/templates/shop/shop.html:12 shop/templates/shop/shop.html:13
+msgid "Products"
+msgstr ""
+
+#: shop/templates/shop/shop.html:24
+msgid "All"
+msgstr ""
+
+#: shop/templates/shop/shop.html:27
+msgid "Juice"
+msgstr ""
